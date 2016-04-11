@@ -7,6 +7,7 @@
 //
 
 #include "towersHanoi.h"
+#include <stdio.h>
 #include <math.h>
 
 double minMovements(double numRings) {

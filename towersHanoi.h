@@ -9,8 +9,6 @@
 #ifndef towersHanoi_h
 #define towersHanoi_h
 
-#include <stdio.h>
-
 double minMovements(double numRings);
 
 void towerSolver(int numRings, char origin, char desti, char aux);
